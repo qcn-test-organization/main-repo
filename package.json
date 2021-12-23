@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "bunnies-are-really-great-qc": "git+ssh://git@github.com:qcn-test-organization/bunnies-are-really-great-qc.git",
-    "moment": "2.29.0"
+    "moment": "2.29.1"
   }
 }
