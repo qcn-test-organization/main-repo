@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "leftpad": "^0.0.1",
-    "bunnies-are-really-great-qc": "git+ssh://git@github.com:qcn-test-organization/bunnies-are-really-great-qc.git"
+    "bunnies-are-really-great-qc": "git+ssh://git@github.com:qcn-test-organization/bunnies-are-really-great-qc.git",
+    "moment": "2.29.0"
   }
 }
