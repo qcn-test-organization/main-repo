@@ -1,4 +1,3 @@
 {
-    "extends": ["config:js-app"],
-    "ignoreDeps": ["bunnies-are-really-great-qc"]
+    "extends": ["config:js-app"]
 }
