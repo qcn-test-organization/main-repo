@@ -1,11 +1,4 @@
 {
     "extends": ["config:js-app"],
-    "hostRules": [
-        {
-            "matchHost": "git@github.com:qcn-test-organization",
-            "encrypted": {
-                "token": "wcFMA/xDdHCJBTolAQ//bohSprs4tL2WYbcnn1fYduaxJ/Emh5OBN/FgrPdRU2eNshNZSRa125AaZp3us2sd5YA1By8Oy2rdGKinU8mj/WAvR6r6mTG2hE/fWpxFUiCi90nV5LZJWxMNjkb1eFufzwqgHGBm+eMRpPdCqeZtNGHYpfeumH7zEhGnRQuoYb7SitJavIf3MHmsg7rSZdD3i4Ah+T73G8omZr2ETj3NzZOIyttkLQSwABIhyKbzBS2838UKgmJxbOOlG3BGvboX0X1BsStAA/eXmY4wRhCzU6hdPjMZW6lpnEUtte/5wvG8fVOqChxn6Xx6f5NUB3ZJdWOnshH2KlrWvdTClENMeFs7mf4/UssUcgiFvC79T+02NiSDlX92lQw3uiNzRtFt0rwUVNeewf9cek51QG5UIV2uZeK+ccg4HEO6upkZGrVaQLYwxxA4CPQmVMgUD5GuSAhbIpiiT5K39PaqWUBOLAAmVDtnz0sga5E8ZIvo+EGman1OZdnYECPjmPyZgUOix1i0mt4dUWriEzoBJ4Dx/jGo1TGAQhKsIDqL5I46VJmUC8EDwiH2kRFV2maJGEQ6o831/IBf4P0T8EpdURE+OibYG/4xAPG8il5HolMRw9316V4mT+PAy5fCBeNjx1oLNGGTzUBkLdHpzxLDOXfSMWnRYaGyXn1NH6adf/iNLw/SwVUB0Qe678nsUkJGt6CcRXopXfoKOSHUSUBz8ZO/AzovUJzVwYqCZ0rdwthhhwHg/hBg2FvvnKh5PkPaQymKiGhX9+Z+6SI2b8M8rgUa19rwnceNkw4F9NboNmVmLenYKVe2PhJYZCnzD2qodstG/P/9syM7cc2NRuVH8K/kIxPG5M/O1sM71Rd167UA+6as0TcIJkBkjEkf7XD/htoskXDNu2rBmS/6ZUEvvJRE1zjPjUPrE6/9HpGFFXgN0WEniQMpJNsJmaozrZM4X8xf5IpZcLv30Lim4lH6nehiaIlipR0P0kkKezCN9qvRT0THswTAO1stwe2BySe0ZhqVvYu2V+YcLtw6uQfsA3lcEuk6OR+hh5C+2G+riH4LwuBiK1k7wax8owGFhBTv+pXSUTcaLEaJeiGhZZY0TVtHRIkNaZckyPHf7BmbrxlvKPGuCu85I3pz0HfJuquvIXQqP/s9fArIP9K71TkfNUCDFQop7BNyt6cpzEeYGycj4P41z0C0a9EYJdvt1jj0JwxJp5RWa1gksPjXXq0YQrLjWURC5mg2XYkW0fwBw8fycp8shSZOk85pS+mildmZBSsuckB35QtqyP8v9ZB4bipwAezd/YfvrM4W+6+65KenBIuJ/TitslkoJTujpr8KY4Pp96l2TBpU1ymp8hEPKyTRjLuawnV+chSS9p5kXnFFwtjQzw87m5xpGQ"
-            }
-        }
-    ]
+    "ignoreDeps": ["bunnies-are-really-great-qc"]
 }
