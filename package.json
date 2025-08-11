@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "bunnies-are-really-great-qc": "ssh://git@github.com:qcn-test-organization/bunnies-are-really-great-qc.git",
-    "moment": "^2.29.0"
+    "moment": "^2.29.1"
   },
   "packageManager": "yarn@3.1.1"
 }
